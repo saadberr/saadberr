@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Saad Berrissoul
 
 <!--
 **saadberr/saadberr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 I’m DATA Engineering student at INPT-RABAT.
+- 👀 I’m interested in Data science, Programming languages, Artificial intelligence and more.
+- 🔭 I’m currently working on NLP.
+- 🌱 I’m currently learning Deep Learning.
+#### 📫 How to reach me:
+- Linkedin : https://www.linkedin.com/in/saad-berrissoul-2298551b4/
+- Gmail : saadberrissoul@gmail.com
+- Organization mail : berrissoul.saad@ine.inpt.ma
