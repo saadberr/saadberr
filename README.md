@@ -63,11 +63,10 @@ Here are some ideas to get you started:
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
             </a>
             &emsp;
-            <a>
+            <a target="_blank">
             <img src="https://cdn.worldvectorlogo.com/logos/jee-3.svg" alt="javascript" width="40" height="40"/>
             </a>
             &emsp;
-           
          </p>
          <p>
             <a href="https://www.php.net" target="_blank">
