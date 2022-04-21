@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on NLP.
 - 🌱 I’m currently learning Deep Learning.
 #### 📫 How to reach me:
-- Linkedin : https://www.linkedin.com/in/saad-berrissoul-2298551b4/
 - Gmail : saadberrissoul@gmail.com
 - Organization mail : berrissoul.saad@ine.inpt.ma
 
@@ -30,7 +29,6 @@ Here are some ideas to get you started:
 <p>
    
 ![saadberr's GitHub stats](https://github-readme-stats.vercel.app/api/?username=saadberr&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadberr&layout=compact&langs_count=8&title_color=fff&text_color=aaaaaa&bg_color=050505)](https://github.com/saadberr/github-readme-stats)
    
 </p>
 <br>
@@ -63,10 +61,6 @@ Here are some ideas to get you started:
             &emsp;
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-            </a>
-            &emsp;
-            <a href="https://reactjs.org/" target="_blank">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
             </a>
             &emsp;
          </p>
@@ -116,11 +110,6 @@ Here are some ideas to get you started:
     </li>
        <li>
         <h3 align="left">Others:</h3>
-        <p>
-        <a href="https://www.w3schools.com/cpp/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-        </a>
-        &emsp;
         <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
         </a>
