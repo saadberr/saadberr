@@ -63,6 +63,9 @@ Here are some ideas to get you started:
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
             </a>
             &emsp;
+            <img src="https://www.svgrepo.com/show/43101/java.svg" alt="javascript" width="40" height="40"/>
+            &emsp;
+           
          </p>
          <p>
             <a href="https://www.php.net" target="_blank">
