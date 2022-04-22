@@ -120,7 +120,7 @@ Here are some ideas to get you started:
         <h3 align="left">Big Data:</h3>
         <p>
         <a target="_blank">
-        <img src="https://seeklogo.com/images/H/hadoop-logo-5DA3672FE8-seeklogo.com.png" alt="hadoop" width="80" height="40"/>
+        <img src="https://seeklogo.com/images/H/hadoop-logo-5DA3672FE8-seeklogo.com.png" alt="hadoop" width="120" height="40"/>
         </a>
         &emsp;
         <a target="_blank">
