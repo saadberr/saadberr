@@ -120,7 +120,7 @@ Here are some ideas to get you started:
         <h3 align="left">Big Data:</h3>
         <p>
         <a target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/664px-Hadoop_logo.svg.png" alt="hadoop" width="40" height="40"/>
+        <img src="https://seeklogo.com/images/H/hadoop-logo-5DA3672FE8-seeklogo.com.png" alt="hadoop" width="40" height="40"/>
         </a>
         &emsp;
         <a target="_blank">
@@ -136,9 +136,9 @@ Here are some ideas to get you started:
         </a>
         &emsp;
     </li>
-   
-       <li>
+    <li>
         <h3 align="left">Others:</h3>
+        <p>
         <a target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
         </a>
