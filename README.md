@@ -116,6 +116,29 @@ Here are some ideas to get you started:
         &emsp;
         </p>
     </li>
+   
+   
+   <li>
+        <h3 align="left">Big Data:</h3>
+        <p>
+        <a target="_blank">
+        <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/09/hadoop-logo-768x182.png" alt="hadoop" width="40" height="40"/>
+        </a>
+        &emsp;
+        <a target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="spark" width="40" height="40"/>
+        </a>
+        &emsp;
+        <a target="_blank">
+        <img src="https://seeklogo.com/images/S/scala-logo-8570724313-seeklogo.com.png" alt="scala" width="40" height="40"/>
+        </a>
+        &emsp;
+        <a target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="elasticsearch" width="40" height="40"/>
+        </a>
+        &emsp;
+    </li>
+   
        <li>
         <h3 align="left">Others:</h3>
         <a target="_blank">
