@@ -111,7 +111,7 @@ Here are some ideas to get you started:
         </a>
         &emsp;
         <a target="_blank">
-        <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="sickit-learn" width="120" height="50"/>
+        <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="sickit-learn" width="90" height="50"/>
         </a>
         &emsp;
         </p>
