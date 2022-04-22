@@ -116,13 +116,11 @@ Here are some ideas to get you started:
         &emsp;
         </p>
     </li>
-   
-   
    <li>
         <h3 align="left">Big Data:</h3>
         <p>
         <a target="_blank">
-        <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/09/hadoop-logo-768x182.png" alt="hadoop" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/664px-Hadoop_logo.svg.png" alt="hadoop" width="40" height="40"/>
         </a>
         &emsp;
         <a target="_blank">
@@ -150,7 +148,7 @@ Here are some ideas to get you started:
         </a>
         &emsp;
         <a target="_blank">
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40"                  height="40"/>
         </a>
         &emsp;
         </p>
