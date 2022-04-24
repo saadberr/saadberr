@@ -23,14 +23,6 @@ Here are some ideas to get you started:
 - Gmail : saadberrissoul@gmail.com
 - Organization mail : berrissoul.saad@ine.inpt.ma
 
-
-<br>
-<h2 align="left">Github Stats</h2>
-<p>
-   
-![saadberr's GitHub stats](https://github-readme-stats.vercel.app/api/?username=saadberr&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505)
-   
-</p>
 <br>
 <h2 align="left">You can find me in</h2>
 <p align="left">
