@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 - 😄 I’m DATA Engineering student at INPT-RABAT.
-- 👀 I’m interested in Data science, Programming, Artificial intelligence and more.
-- 🔭 I’m currently working on NLP.
-- 🌱 I’m currently learning Deep Learning.
+- 👀 I’m interested in Data engineering, Programming, Artificial intelligence and more.
+- 🔭 I’m currently working on Data pipelines.
+- 🌱 I’m currently learning Big data.
 #### 📫 How to reach me:
 - Gmail : saadberrissoul@gmail.com
-- Organization mail : berrissoul.saad@ine.inpt.ma
+- Organization mail : berrissoul.saad@inemail.ine.inpt.ma
 
 <br>
 <h2 align="left">You can find me in</h2>
